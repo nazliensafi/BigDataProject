@@ -24,7 +24,7 @@ The core questions guiding this project are:
 
 ## Model Design and Implementation
 
-We plan to use Collaborative Filtering approach, leveraging matrix factorization techniques to predict user ratings for movies they haven't yet seen. The primary algorithm used is the ALS (Alternating Least Squares) method in Apache Spark MLlib, chosen for its scalability and effectiveness in handling sparse datasets.
+We plan to use Collaborative Filtering approach, leveraging matrix factorization techniques to predict user ratings for books they haven't yet read. The primary algorithm used is the ALS (Alternating Least Squares) method in Apache Spark MLlib, chosen for its scalability and effectiveness in handling sparse datasets.
 As it is shown to be more efficient in practice, we will explore the possibility of item-item Collaborative Filtering as opposed to user-item CF which Apache Spark uses. Finally, we will evaluate the recommendation model by measuring the root-mean-square error of rating prediction.
 
 ### References:
