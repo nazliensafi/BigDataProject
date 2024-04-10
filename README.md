@@ -12,7 +12,7 @@ BX-Users.csv
 BX_Books.csv
 In this project, we use "BX-Book-Ratings.csv" file containing "User-ID", "ISBN", "Book-Rating", delimited by ";" to build the models and "BX_Books.csv" to fetch the titles of the recommended books.
 The dataset is available to download at:
-[https://files.grouplens.org/datasets/movielens/ml-25m-README.html](https://www.kaggle.com/datasets/ruchi798/bookcrossing-dataset?resource=download-directory)
+(https://www.kaggle.com/datasets/ruchi798/bookcrossing-dataset?resource=download-directory)
 
 ## Research Questions
 
